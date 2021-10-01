@@ -1,6 +1,7 @@
 <h1> SBSPS-Challenge-7273-SDG-2-Zero-Hunger </h1>
 
-<h3> Files <h3>
+<h3> Files <h3> 
+ ----------------------- <br>
  Model Algorithm : <br>
  Hackathon_Main.ipynb <br>
  <br>
@@ -10,8 +11,8 @@
  3. Visualization_2.ipynb <br>
  <br>
  Poster : <br>
- Poster_RSNV.pdf
-                      
+ Poster_RSNV.pdf <br>
+ ----------------------- <br>                     
 <h3> Team RSNV <h3>
 Members : <br>
 1. Cv Rahul        - RahulCv@outlook.com <br>
