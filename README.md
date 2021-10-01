@@ -1,7 +1,8 @@
 <h1> SBSPS-Challenge-7273-SDG-2-Zero-Hunger </h1>
 
 <h3> Files <h3>
- Model Algorithm : Hackathon_Main.ipynb <br>
+ Model Algorithm : <br>
+ Hackathon_Main.ipynb <br>
  <br>
  Visualization   : <br>
  1. pi_chart.ipynb <br>
